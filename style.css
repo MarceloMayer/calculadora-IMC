@@ -1,0 +1,49 @@
+.main {
+    background-color: rgb(237, 187, 21);
+    height: 600px;
+    margin: 100px auto;
+    border-radius: 20px;
+    max-width: 500px;
+    box-shadow: 7px 7px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+
+.formulario {
+    margin: 30px auto;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.formulario label {
+    margin-right: 20px;
+    width: 60px;
+}
+
+
+.resultado {
+    background-color: rgb(238, 186, 15);
+    width: 80%;
+    height: 30%;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+    margin: auto;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+#name {
+    height: 44px;
+}
+#calcular{
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+}
